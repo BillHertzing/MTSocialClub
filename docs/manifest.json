@@ -1,0 +1,464 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Dropbox/whertzing/GitHub/MTSocialClub",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.ErrorModel.html",
+          "hash": "EqfLROiZoWPAVLByHmOAhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Pages.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.IndexModel.html",
+          "hash": "KPiRbSTf45GkPPKStqTPuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Pages.PrivacyModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html",
+          "hash": "Rny9x7DO2PnQJ5lRiW8h9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.html",
+          "hash": "NaWnjCQf+B5xT7DiNyayyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Program.html",
+          "hash": "d+xaySb9qYN6bL5DdO1GpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.Startup.html",
+          "hash": "cJNEHnDxoc3qoJpEQBrtuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/MTSocialClubWebSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/MTSocialClubWebSite.html",
+          "hash": "1crswD7eGsUVRmWt4K6sSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "DocFx/obj/docfx/api/net471/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/net471/toc.html",
+          "hash": "ReYvsY2qLyb3bf8TB+uXPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html",
+          "hash": "ghmTRglOPsVj7Guw3snoqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html",
+          "hash": "Ty62T9UONOm5ek8FcuBoXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
+          "hash": "uSRMRqutGkBefMTacRmA3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html",
+          "hash": "rmtzB5x32YECHQijHdKayA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html",
+          "hash": "IGwF4DcQBnhCx8IjawftuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Startup.html",
+          "hash": "Arsjv283q2IvloEL53yYQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/MTSocialClubWebSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html",
+          "hash": "nk5Mddc8xXYhnoEjd9THTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "DocFx/obj/docfx/api/netcoreapp2.0/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netcoreapp2.0/toc.html",
+          "hash": "Qgi8+s5be85ZDas95DCxzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html",
+          "hash": "EqfLROiZoWPAVLByHmOAhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html",
+          "hash": "KPiRbSTf45GkPPKStqTPuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
+          "hash": "Rny9x7DO2PnQJ5lRiW8h9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.html",
+          "hash": "0AakryFbUWXnnoXS/z/oag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html",
+          "hash": "d+xaySb9qYN6bL5DdO1GpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Startup.html",
+          "hash": "cJNEHnDxoc3qoJpEQBrtuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/MTSocialClubWebSite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.html",
+          "hash": "7UJjlrAykSwtcHCcaHv3gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "DocFx/obj/docfx/api/netstandard2.0/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ApiDocumentation/netstandard2.0/toc.html",
+          "hash": "nyvN0jcYCoOI80jlJPgAkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/ReadMe.md",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/ReadMe.html",
+          "hash": "fe6HLPhBzjQLc2zQJKeM1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Documentation/next steps.md",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/next steps.html",
+          "hash": "WR16bMJuB6Wa0YcR/Fr1XQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "Documentation/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Documentation/toc.html",
+          "hash": "U8eMV/AHVrhSRKmuIAtekw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "XUxxQ9sJdjl6UT5hE2yjXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Rv6qN+OVDPWj1118d5b1Vw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "/I5ZEXiJVgIV20HM8chm2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

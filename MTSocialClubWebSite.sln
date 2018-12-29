@@ -3,7 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTSocialClubWebSite", "MTSocialClubWebSite\MTSocialClubWebSite.csproj", "{63FB8169-EF97-4081-9F4E-9DE2E234D221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTSocialClubWebSite", "MTSocialClubWebSite\MTSocialClubWebSite.csproj", "{63FB8169-EF97-4081-9F4E-9DE2E234D221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{BC1DC758-FCBF-4EE0-AE58-1F894C9D8C43}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\MT Socail Club Form SS-4 Application for EIN.pdf = Documentation\MT Socail Club Form SS-4 Application for EIN.pdf
+		Documentation\MT Social Club Budget 2019.xlsx = Documentation\MT Social Club Budget 2019.xlsx
+		Documentation\MT Social Club ByLaws.txt = Documentation\MT Social Club ByLaws.txt
+		Documentation\MT Social Club IRS Form 1024 Application for Recognition of Exemption.pdf = Documentation\MT Social Club IRS Form 1024 Application for Recognition of Exemption.pdf
+		Documentation\MT Social Club Ledger 2018.xlsx = Documentation\MT Social Club Ledger 2018.xlsx
+		Documentation\MT Social Club Ltd. Articles of Incorporation.pdf = Documentation\MT Social Club Ltd. Articles of Incorporation.pdf
+		Documentation\MT Social Club Provisions filed along with Articles of Incorporation.docx = Documentation\MT Social Club Provisions filed along with Articles of Incorporation.docx
+		Documentation\next steps.md = Documentation\next steps.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DocFx", "DocFx", "{DDCF8A88-23AD-41ED-A39B-B5DACE6CD149}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F6B846E-793D-4948-9E22-6243E7589940}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
