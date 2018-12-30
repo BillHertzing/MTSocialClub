@@ -64,17 +64,12 @@
         "dest": "./"
       },
       {
-        "files": [ "*.pdf", "**/*.pdf", "**/*.md", "**/index.md", "**/toc.yml" ],
+        "files": [ "**/*.pdf", "**/*.md", "**/index.md", "**/toc.yml" ],
         "exclude": ["**/obj", "**/bin", "**/docs", "**/DocFx"],
         "src": "./Documentation",
         "dest": "./Documentation/"
       },
-      {
-        "files": ["**.yml", "index.md", "toc.md", "**/*.yml", "**/toc.yml", "**/index.md"],
-        "exclude": ["**/obj", "**/bin", "**/docs", "**/DocFx"],
-        "src": "./Demos",
-        "dest": "./Demos/"
-      }
+
 
     ],
     "resource": [
@@ -82,7 +77,6 @@
         "files": [
           "images/**",
           "svg/**"
-          "pdf/**"
         ]
       }
     ],
