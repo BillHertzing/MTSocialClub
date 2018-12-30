@@ -1,0 +1,18 @@
+- name: Documentation Home
+  href: ReadMe.html
+  items:
+ 
+  - name: ByLaws
+    href: "ByLaws.html"
+  - name: Articles of Incorporation
+    href: "Articles of Incorporation.html"
+  - name: Provisions filed along with Articles of Incorporation
+    href: "Provisions filed along with Articles of Incorporation.html"
+  - name: Form SS-4 Application for EIN
+    href: "Form SS-4 Application for EIN.html"
+  - name: IRS Form 1024 Application for Recognition of Exemption
+    href: "IRS Form 1024 Application for Recognition of Exemption.html"
+  - name: Budget 2019
+    href: "Budget 2019.html"
+  - name: Ledger 2018
+    href: "Ledger 2018.html"
