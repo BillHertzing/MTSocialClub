@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		Documentation\MT Social Club Ltd. Articles of Incorporation.pdf = Documentation\MT Social Club Ltd. Articles of Incorporation.pdf
 		Documentation\MT Social Club Provisions filed along with Articles of Incorporation.docx = Documentation\MT Social Club Provisions filed along with Articles of Incorporation.docx
 		Documentation\next steps.md = Documentation\next steps.md
+		Documentation\ReadMe.md = Documentation\ReadMe.md
+		Documentation\toc.yml = Documentation\toc.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DocFx", "DocFx", "{DDCF8A88-23AD-41ED-A39B-B5DACE6CD149}"
