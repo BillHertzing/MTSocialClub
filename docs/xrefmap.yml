@@ -3,57 +3,57 @@ sorted: true
 references:
 - uid: MTSocialClubWebSite
   name: MTSocialClubWebSite
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.html
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html
   commentId: N:MTSocialClubWebSite
   fullName: MTSocialClubWebSite
   nameWithType: MTSocialClubWebSite
 - uid: MTSocialClubWebSite.Pages
   name: MTSocialClubWebSite.Pages
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.html
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.html
   commentId: N:MTSocialClubWebSite.Pages
   fullName: MTSocialClubWebSite.Pages
   nameWithType: MTSocialClubWebSite.Pages
 - uid: MTSocialClubWebSite.Pages.ErrorModel
   name: ErrorModel
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html
   commentId: T:MTSocialClubWebSite.Pages.ErrorModel
   fullName: MTSocialClubWebSite.Pages.ErrorModel
   nameWithType: ErrorModel
 - uid: MTSocialClubWebSite.Pages.ErrorModel.OnGet
   name: OnGet()
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_OnGet
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_OnGet
   commentId: M:MTSocialClubWebSite.Pages.ErrorModel.OnGet
   fullName: MTSocialClubWebSite.Pages.ErrorModel.OnGet()
   nameWithType: ErrorModel.OnGet()
 - uid: MTSocialClubWebSite.Pages.ErrorModel.OnGet*
   name: OnGet
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_OnGet_
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_OnGet_
   commentId: Overload:MTSocialClubWebSite.Pages.ErrorModel.OnGet
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.ErrorModel.OnGet
   nameWithType: ErrorModel.OnGet
 - uid: MTSocialClubWebSite.Pages.ErrorModel.RequestId
   name: RequestId
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_RequestId
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_RequestId
   commentId: P:MTSocialClubWebSite.Pages.ErrorModel.RequestId
   fullName: MTSocialClubWebSite.Pages.ErrorModel.RequestId
   nameWithType: ErrorModel.RequestId
 - uid: MTSocialClubWebSite.Pages.ErrorModel.RequestId*
   name: RequestId
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_RequestId_
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_RequestId_
   commentId: Overload:MTSocialClubWebSite.Pages.ErrorModel.RequestId
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.ErrorModel.RequestId
   nameWithType: ErrorModel.RequestId
 - uid: MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId
   name: ShowRequestId
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_ShowRequestId
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_ShowRequestId
   commentId: P:MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId
   fullName: MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId
   nameWithType: ErrorModel.ShowRequestId
 - uid: MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId*
   name: ShowRequestId
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_ShowRequestId_
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html#MTSocialClubWebSite_Pages_ErrorModel_ShowRequestId_
   commentId: Overload:MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.ErrorModel.ShowRequestId
@@ -79,19 +79,19 @@ references:
   nameWithType: IndexModel.OnGet
 - uid: MTSocialClubWebSite.Pages.PrivacyModel
   name: PrivacyModel
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html
   commentId: T:MTSocialClubWebSite.Pages.PrivacyModel
   fullName: MTSocialClubWebSite.Pages.PrivacyModel
   nameWithType: PrivacyModel
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   name: OnGet()
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
   commentId: M:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet()
   nameWithType: PrivacyModel.OnGet()
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet*
   name: OnGet
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
   commentId: Overload:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
