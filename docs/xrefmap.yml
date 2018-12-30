@@ -3,7 +3,7 @@ sorted: true
 references:
 - uid: MTSocialClubWebSite
   name: MTSocialClubWebSite
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.html
   commentId: N:MTSocialClubWebSite
   fullName: MTSocialClubWebSite
   nameWithType: MTSocialClubWebSite
@@ -60,38 +60,38 @@ references:
   nameWithType: ErrorModel.ShowRequestId
 - uid: MTSocialClubWebSite.Pages.IndexModel
   name: IndexModel
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html
   commentId: T:MTSocialClubWebSite.Pages.IndexModel
   fullName: MTSocialClubWebSite.Pages.IndexModel
   nameWithType: IndexModel
 - uid: MTSocialClubWebSite.Pages.IndexModel.OnGet
   name: OnGet()
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html#MTSocialClubWebSite_Pages_IndexModel_OnGet
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html#MTSocialClubWebSite_Pages_IndexModel_OnGet
   commentId: M:MTSocialClubWebSite.Pages.IndexModel.OnGet
   fullName: MTSocialClubWebSite.Pages.IndexModel.OnGet()
   nameWithType: IndexModel.OnGet()
 - uid: MTSocialClubWebSite.Pages.IndexModel.OnGet*
   name: OnGet
-  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html#MTSocialClubWebSite_Pages_IndexModel_OnGet_
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html#MTSocialClubWebSite_Pages_IndexModel_OnGet_
   commentId: Overload:MTSocialClubWebSite.Pages.IndexModel.OnGet
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.IndexModel.OnGet
   nameWithType: IndexModel.OnGet
 - uid: MTSocialClubWebSite.Pages.PrivacyModel
   name: PrivacyModel
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html
+  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html
   commentId: T:MTSocialClubWebSite.Pages.PrivacyModel
   fullName: MTSocialClubWebSite.Pages.PrivacyModel
   nameWithType: PrivacyModel
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   name: OnGet()
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
+  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
   commentId: M:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet()
   nameWithType: PrivacyModel.OnGet()
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet*
   name: OnGet
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
+  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
   commentId: Overload:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
