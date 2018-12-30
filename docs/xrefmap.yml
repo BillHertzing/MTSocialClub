@@ -9,7 +9,7 @@ references:
   nameWithType: MTSocialClubWebSite
 - uid: MTSocialClubWebSite.Pages
   name: MTSocialClubWebSite.Pages
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html
+  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.html
   commentId: N:MTSocialClubWebSite.Pages
   fullName: MTSocialClubWebSite.Pages
   nameWithType: MTSocialClubWebSite.Pages
@@ -79,32 +79,32 @@ references:
   nameWithType: IndexModel.OnGet
 - uid: MTSocialClubWebSite.Pages.PrivacyModel
   name: PrivacyModel
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html
   commentId: T:MTSocialClubWebSite.Pages.PrivacyModel
   fullName: MTSocialClubWebSite.Pages.PrivacyModel
   nameWithType: PrivacyModel
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   name: OnGet()
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet
   commentId: M:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet()
   nameWithType: PrivacyModel.OnGet()
 - uid: MTSocialClubWebSite.Pages.PrivacyModel.OnGet*
   name: OnGet
-  href: ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
+  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html#MTSocialClubWebSite_Pages_PrivacyModel_OnGet_
   commentId: Overload:MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   isSpec: "True"
   fullName: MTSocialClubWebSite.Pages.PrivacyModel.OnGet
   nameWithType: PrivacyModel.OnGet
 - uid: MTSocialClubWebSite.Program
   name: Program
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html
   commentId: T:MTSocialClubWebSite.Program
   fullName: MTSocialClubWebSite.Program
   nameWithType: Program
 - uid: MTSocialClubWebSite.Program.CreateWebHostBuilder(System.String[])
   name: CreateWebHostBuilder(String[])
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_CreateWebHostBuilder_System_String___
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_CreateWebHostBuilder_System_String___
   commentId: M:MTSocialClubWebSite.Program.CreateWebHostBuilder(System.String[])
   name.vb: CreateWebHostBuilder(String())
   fullName: MTSocialClubWebSite.Program.CreateWebHostBuilder(System.String[])
@@ -113,14 +113,14 @@ references:
   nameWithType.vb: Program.CreateWebHostBuilder(String())
 - uid: MTSocialClubWebSite.Program.CreateWebHostBuilder*
   name: CreateWebHostBuilder
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_CreateWebHostBuilder_
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_CreateWebHostBuilder_
   commentId: Overload:MTSocialClubWebSite.Program.CreateWebHostBuilder
   isSpec: "True"
   fullName: MTSocialClubWebSite.Program.CreateWebHostBuilder
   nameWithType: Program.CreateWebHostBuilder
 - uid: MTSocialClubWebSite.Program.Main(System.String[])
   name: Main(String[])
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_Main_System_String___
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_Main_System_String___
   commentId: M:MTSocialClubWebSite.Program.Main(System.String[])
   name.vb: Main(String())
   fullName: MTSocialClubWebSite.Program.Main(System.String[])
@@ -129,7 +129,7 @@ references:
   nameWithType.vb: Program.Main(String())
 - uid: MTSocialClubWebSite.Program.Main*
   name: Main
-  href: ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_Main_
+  href: ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html#MTSocialClubWebSite_Program_Main_
   commentId: Overload:MTSocialClubWebSite.Program.Main
   isSpec: "True"
   fullName: MTSocialClubWebSite.Program.Main
