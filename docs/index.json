@@ -1,51 +1,21 @@
 {
-  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Startup.html": {
-    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Startup.html",
-    "title": "Class Startup | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class Startup Inheritance System.Object Startup Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Startup : object Constructors Startup(IConfiguration) Declaration public Startup(IConfiguration configuration) Parameters Type Name Description IConfiguration configuration Properties Configuration Declaration public IConfiguration Configuration { get; } Property Value Type Description IConfiguration Methods Configure(IApplicationBuilder, IHostingEnvironment) Declaration public void Configure(IApplicationBuilder app, IHostingEnvironment env) Parameters Type Name Description IApplicationBuilder app IHostingEnvironment env ConfigureServices(IServiceCollection) Declaration public void ConfigureServices(IServiceCollection services) Parameters Type Name Description IServiceCollection services"
-  },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Startup.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Startup.html",
-    "title": "Class Startup | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class Startup Inheritance System.Object Startup Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Startup : object Constructors Startup(IConfiguration) Declaration public Startup(IConfiguration configuration) Parameters Type Name Description IConfiguration configuration Properties Configuration Declaration public IConfiguration Configuration { get; } Property Value Type Description IConfiguration Methods Configure(IApplicationBuilder, IHostingEnvironment) Declaration public void Configure(IApplicationBuilder app, IHostingEnvironment env) Parameters Type Name Description IApplicationBuilder app IHostingEnvironment env ConfigureServices(IServiceCollection) Declaration public void ConfigureServices(IServiceCollection services) Parameters Type Name Description IServiceCollection services"
-  },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.ErrorModel.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.ErrorModel.html",
-    "title": "Class ErrorModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class ErrorModel Inheritance System.Object ErrorModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class ErrorModel : PageModel Properties RequestId Declaration public string RequestId { get; set; } Property Value Type Description System.String ShowRequestId Declaration public bool ShowRequestId { get; } Property Value Type Description System.Boolean Methods OnGet() Declaration public void OnGet()"
-  },
-  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html": {
-    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html",
-    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
-  },
   "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Startup.html": {
     "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Startup.html",
     "title": "Class Startup | MT Social Club GitHub Pages static documentation site",
     "keywords": "Class Startup Inheritance System.Object Startup Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Startup : object Constructors Startup(IConfiguration) Declaration public Startup(IConfiguration configuration) Parameters Type Name Description IConfiguration configuration Properties Configuration Declaration public IConfiguration Configuration { get; } Property Value Type Description IConfiguration Methods Configure(IApplicationBuilder, IHostingEnvironment) Declaration public void Configure(IApplicationBuilder app, IHostingEnvironment env) Parameters Type Name Description IApplicationBuilder app IHostingEnvironment env ConfigureServices(IServiceCollection) Declaration public void ConfigureServices(IServiceCollection services) Parameters Type Name Description IServiceCollection services"
   },
-  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html": {
-    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html",
-    "title": "Class ErrorModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class ErrorModel Inheritance System.Object ErrorModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class ErrorModel : PageModel Properties RequestId Declaration public string RequestId { get; set; } Property Value Type Description System.String ShowRequestId Declaration public bool ShowRequestId { get; } Property Value Type Description System.Boolean Methods OnGet() Declaration public void OnGet()"
+  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html": {
+    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
+    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
   },
-  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html": {
-    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html",
-    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
-  },
-  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html": {
-    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html",
-    "title": "Namespace MTSocialClubWebSite | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Namespace MTSocialClubWebSite Classes Program Startup"
+  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Startup.html": {
+    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Startup.html",
+    "title": "Class Startup | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class Startup Inheritance System.Object Startup Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Startup : object Constructors Startup(IConfiguration) Declaration public Startup(IConfiguration configuration) Parameters Type Name Description IConfiguration configuration Properties Configuration Declaration public IConfiguration Configuration { get; } Property Value Type Description IConfiguration Methods Configure(IApplicationBuilder, IHostingEnvironment) Declaration public void Configure(IApplicationBuilder app, IHostingEnvironment env) Parameters Type Name Description IApplicationBuilder app IHostingEnvironment env ConfigureServices(IServiceCollection) Declaration public void ConfigureServices(IServiceCollection services) Parameters Type Name Description IServiceCollection services"
   },
   "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.html": {
     "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.html",
-    "title": "Namespace MTSocialClubWebSite.Pages | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Namespace MTSocialClubWebSite.Pages Classes ErrorModel IndexModel PrivacyModel"
-  },
-  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html": {
-    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html",
     "title": "Namespace MTSocialClubWebSite.Pages | MT Social Club GitHub Pages static documentation site",
     "keywords": "Namespace MTSocialClubWebSite.Pages Classes ErrorModel IndexModel PrivacyModel"
   },
@@ -54,74 +24,104 @@
     "title": "Namespace MTSocialClubWebSite | MT Social Club GitHub Pages static documentation site",
     "keywords": "Namespace MTSocialClubWebSite Classes Program Startup"
   },
-  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html": {
-    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html",
-    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
-  },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.html",
-    "title": "Namespace MTSocialClubWebSite.Pages | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Namespace MTSocialClubWebSite.Pages Classes ErrorModel IndexModel PrivacyModel"
-  },
-  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html": {
-    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html",
-    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
-  },
-  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html": {
-    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
-    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
-  },
-  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html": {
-    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
-    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
-  },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Program.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Program.html",
-    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
+  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.ErrorModel.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.ErrorModel.html",
+    "title": "Class ErrorModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class ErrorModel Inheritance System.Object ErrorModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class ErrorModel : PageModel Properties RequestId Declaration public string RequestId { get; set; } Property Value Type Description System.String ShowRequestId Declaration public bool ShowRequestId { get; } Property Value Type Description System.Boolean Methods OnGet() Declaration public void OnGet()"
   },
   "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.html": {
     "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.html",
     "title": "Namespace MTSocialClubWebSite | MT Social Club GitHub Pages static documentation site",
     "keywords": "Namespace MTSocialClubWebSite Classes Program Startup"
   },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.IndexModel.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.IndexModel.html",
-    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
+  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.html",
+    "title": "Namespace MTSocialClubWebSite.Pages | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Namespace MTSocialClubWebSite.Pages Classes ErrorModel IndexModel PrivacyModel"
+  },
+  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html": {
+    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.ErrorModel.html",
+    "title": "Class ErrorModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class ErrorModel Inheritance System.Object ErrorModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class ErrorModel : PageModel Properties RequestId Declaration public string RequestId { get; set; } Property Value Type Description System.String ShowRequestId Declaration public bool ShowRequestId { get; } Property Value Type Description System.Boolean Methods OnGet() Declaration public void OnGet()"
   },
   "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html": {
     "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.ErrorModel.html",
     "title": "Class ErrorModel | MT Social Club GitHub Pages static documentation site",
     "keywords": "Class ErrorModel Inheritance System.Object ErrorModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class ErrorModel : PageModel Properties RequestId Declaration public string RequestId { get; set; } Property Value Type Description System.String ShowRequestId Declaration public bool ShowRequestId { get; } Property Value Type Description System.Boolean Methods OnGet() Declaration public void OnGet()"
   },
-  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html": {
-    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html",
-    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
-    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
+  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html": {
+    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Program.html",
+    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
+  },
+  "ApiDocumentation/net471/MTSocialClubWebSite.Startup.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Startup.html",
+    "title": "Class Startup | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class Startup Inheritance System.Object Startup Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Startup : object Constructors Startup(IConfiguration) Declaration public Startup(IConfiguration configuration) Parameters Type Name Description IConfiguration configuration Properties Configuration Declaration public IConfiguration Configuration { get; } Property Value Type Description IConfiguration Methods Configure(IApplicationBuilder, IHostingEnvironment) Declaration public void Configure(IApplicationBuilder app, IHostingEnvironment env) Parameters Type Name Description IApplicationBuilder app IHostingEnvironment env ConfigureServices(IServiceCollection) Declaration public void ConfigureServices(IServiceCollection services) Parameters Type Name Description IServiceCollection services"
+  },
+  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html": {
+    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Program.html",
+    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
+  },
+  "ApiDocumentation/net471/MTSocialClubWebSite.Program.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Program.html",
+    "title": "Class Program | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class Program Inheritance System.Object Program Namespace : MTSocialClubWebSite Assembly : MTSocialClubWebSite.dll Syntax public class Program : object Methods CreateWebHostBuilder(String[]) Declaration public static IWebHostBuilder CreateWebHostBuilder(string[] args) Parameters Type Name Description System.String [] args Returns Type Description IWebHostBuilder Main(String[]) Declaration public static void Main(string[] args) Parameters Type Name Description System.String [] args"
   },
   "index.html": {
     "href": "index.html",
     "title": "MT Social Club Documentation Site Root Home Page | MT Social Club GitHub Pages static documentation site",
-    "keywords": "MT Social Club Documentation Site Root Home Page You should be redirected to this repository's ReadMe.html page. If it doesn't happen automatically, please click on the link ReadMe.html"
+    "keywords": "MT Social Club Documentation Site Root Home Page You should be redirected to this repository's README.html page. If it doesn't happen automatically, please click on the link README.html"
   },
   "Documentation/ReadMe.html": {
     "href": "Documentation/ReadMe.html",
     "title": "MT Social Club Documentation | MT Social Club GitHub Pages static documentation site",
     "keywords": "MT Social Club Documentation MT Social Club ByLaws (Txt) MT Social Club Ltd. Articles of Incorporation (PDF) MT Social Club Provisions filed along with Articles of Incorporation (Word Docx) MT Social Club Form SS-4 Application for EIN (PDF) MT Social Club IRS Form 1024 Application for Recognition of Exemption MT Social Club Budget 2019 (Excel) MT Social Club Ledger 2018 (Excel)"
   },
-  "Documentation/next steps.html": {
-    "href": "Documentation/next steps.html",
-    "title": "| MT Social Club GitHub Pages static documentation site",
-    "keywords": "12/19/18 Have a planning introduction meeting Get 12 people who will each take an organizational seat Create committees of volunteers to start planning a mid-Feb party. create deadlines for the party steps get caterer availability membership committee - create the membership forms membership committee, work on the membership list infrastructure, how to get a form to a at-door person, how to make sure the bylaws are available, track membership start and end dates, no longer qualified (move out)list updates. How much will it cost the club to lease membership SW? is it worth it? start manual, go automated if club expands (?) communications committee, get the word out in BuildingLink. Investigate contact list SW - the club has to notify members about annual and special meetings, plus the communications team will be spreading the word about upcoming events. Need to be fully digital - how? finance committee, plan party budget, plan tickets cost (advance and at-door) finance committee, work on finance infrastructure (checking account, \"books\", PayPal account, other digital payment options. Taking money at the door for events, at the door for memberships, and both; at the bar for drinks. Also, donations to the club. Not charitable deductions, but appreciated! Plan to coordinate with event planning committee to be sure there is good communication between planning, finance, and the caterer/bartender about responsibilities for taking money. Maybe use a ticket system?) get membership forms out get bylaws out to group lawyers."
+  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html": {
+    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.html",
+    "title": "Namespace MTSocialClubWebSite.Pages | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Namespace MTSocialClubWebSite.Pages Classes ErrorModel IndexModel PrivacyModel"
+  },
+  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html": {
+    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.html",
+    "title": "Namespace MTSocialClubWebSite | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Namespace MTSocialClubWebSite Classes Program Startup"
+  },
+  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.PrivacyModel.html",
+    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
+  },
+  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html": {
+    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.IndexModel.html",
+    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
+  },
+  "ApiDocumentation/net471/MTSocialClubWebSite.Pages.IndexModel.html": {
+    "href": "ApiDocumentation/net471/MTSocialClubWebSite.Pages.IndexModel.html",
+    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
+  },
+  "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html": {
+    "href": "ApiDocumentation/netcoreapp2.0/MTSocialClubWebSite.Pages.IndexModel.html",
+    "title": "Class IndexModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class IndexModel Inheritance System.Object IndexModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class IndexModel : PageModel Methods OnGet() Declaration public void OnGet()"
   },
   "README.html": {
     "href": "README.html",
     "title": "Museum Tower Social ClubFor residents of the Charlotte Museum Tower ApartmentsGitHub repository | MT Social Club GitHub Pages static documentation site",
     "keywords": "Museum Tower Social Club For residents of the Charlotte Museum Tower Apartments GitHub repository This repository contains the code for the MT Social Club web site, and Documentation needed to operate the MT Social Club This repository hosts the GitHub Pages static documentation site in the /docs directory of the master branch For keeping the code and Documentation under Version control, this repository uses the GITFlow branching techniques. Please use the Issues database and Features projects to report problems and request new features. Contact any of the MT Social Club's IT Admins to request write-access to the code or documentation for collaboration access."
+  },
+  "Documentation/next steps.html": {
+    "href": "Documentation/next steps.html",
+    "title": "| MT Social Club GitHub Pages static documentation site",
+    "keywords": "12/19/18 Have a planning introduction meeting Get 12 people who will each take an organizational seat Create committees of volunteers to start planning a mid-Feb party. create deadlines for the party steps get caterer availability membership committee - create the membership forms membership committee, work on the membership list infrastructure, how to get a form to a at-door person, how to make sure the bylaws are available, track membership start and end dates, no longer qualified (move out)list updates. How much will it cost the club to lease membership SW? is it worth it? start manual, go automated if club expands (?) communications committee, get the word out in BuildingLink. Investigate contact list SW - the club has to notify members about annual and special meetings, plus the communications team will be spreading the word about upcoming events. Need to be fully digital - how? finance committee, plan party budget, plan tickets cost (advance and at-door) finance committee, work on finance infrastructure (checking account, \"books\", PayPal account, other digital payment options. Taking money at the door for events, at the door for memberships, and both; at the bar for drinks. Also, donations to the club. Not charitable deductions, but appreciated! Plan to coordinate with event planning committee to be sure there is good communication between planning, finance, and the caterer/bartender about responsibilities for taking money. Maybe use a ticket system?) get membership forms out get bylaws out to group lawyers."
+  },
+  "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html": {
+    "href": "ApiDocumentation/netstandard2.0/MTSocialClubWebSite.Pages.PrivacyModel.html",
+    "title": "Class PrivacyModel | MT Social Club GitHub Pages static documentation site",
+    "keywords": "Class PrivacyModel Inheritance System.Object PrivacyModel Namespace : MTSocialClubWebSite.Pages Assembly : MTSocialClubWebSite.dll Syntax public class PrivacyModel : PageModel Methods OnGet() Declaration public void OnGet()"
   }
 }
